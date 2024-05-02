@@ -119,9 +119,9 @@ module.exports = {
   caption : process.env.CAPTION || "*©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs*" , // ```『 ©²⁰²⁴ ɢɪғᴛᴇᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛs 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@giftedtechnexus"),
  
   author : process.env.PACK_AUTHER|| "Gifted Tech",
-  packname: process.env.PACK_NAME || "Gifted-Md♥️",
-  botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "Gifted Tech",
+  packname: process.env.PACK_NAME ||" Dragon-Md♥️",
+  botname : process.env.BOT_NAME  || "Dragon-ᴍᴅ",
+  ownername:process.env.OWNER_NAME|| "Dragon Tech",
 
 
   errorChat : process.env.ERROR_CHAT || "",
